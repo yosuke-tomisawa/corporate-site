@@ -295,6 +295,8 @@ h1 {
     color: #626262;
     font-size: 14px;
     font-size: 1.4rem; }
+  #contents #main th {
+    padding-right: 20px; }
   #contents #main .news_li {
     font-size: 15px;
     font-size: 1.5rem; }
@@ -304,7 +306,7 @@ h1 {
         color: #42b9d0;
         display: block;
         font-weight: bold;
-        margin-bottom: 3px; }
+        margin-bottom: 1px; }
         @media (min-width: 550px) {
           #contents #main .news_li li span {
             display: inline-block;
